@@ -2,6 +2,6 @@
 
 * [PLaTon](README.md)
 
-## 📄 Assets
+## 📄 Concept
 
-* [Assets](assets/assets.md)
+* [Assets](concept/assets.md)
