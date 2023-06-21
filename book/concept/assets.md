@@ -1,10 +1,14 @@
+---
+description: Definition du concept d'asset
+---
+
 # Assets
 
 Les assets sont des éléments graphique avec lequel l'élèves peut interagir (exercice, activité, page, vidéo, etc...)
 
 Les assets sont des instanciations des ressources.
 
-Une fois la ressource instanciée et donc publié, la ressource assets est non mutable (il faut recharger une nouvelle version pour modifier la ressouce ce qui peut avoir des conséquences sur ce que les différents élèves voient). Les nouvelles versions de la ressource n'affecte pas les assets précédemment publié. C'est pourquoi on appel la ressouce dans un asset une "frozen-ressource".
+Une fois la ressource instanciée et donc publié, la ressource assets est non mutable (il faut recharger une nouvelle version pour modifier la ressouce ce qui peut avoir des conséquences sur ce que les différents élèves voient). Les nouvelles versions de la ressource n'affecte pas les assets précédemment publié. C'est pourquoi on appel la ressource dans un assets une "frozen-ressource".
 
 {% hint style="warning" %}
 En cas de problème dans la version publié il est possible de **reload** l'asset. Cet intervention est uniquement réalisable par les enseignants en charge de l'asset ou un administrateur.
@@ -42,4 +46,4 @@ cours <- section <- activités les sections sont des activités (on peut boucler
 
 ## Modélisation UML
 
-<figure><img src="https://www.plantuml.com/plantuml/dpng/NO_12i8m38RlUOhGep3KDzWOx20xJM_Y8NHn56ehJNPnxDqjTeZOIyd_9U5BBKf9vuU7rfC8DYAik41-AsnPb-ABmy0YSKwM5pXhSc72RpBmdHC7omWdYQ5px4SSIGcaTAfJpt2XwNf3fKbWnMstQQpb_BSnQ8eUUoTgaB98s-FoaIXAkwf2SpJ_Ch_qiCyypvMir8KyAN5GWmL0pM7C9xy1" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://www.plantuml.com/plantuml/png/NP2nJWCn44Jx_OgHIwG8-8E4WnGeLHBH80fpDpaiEJRoxb5mohzZuWWGbULvzjFiBjLyiUaOfOjU5IjL6cQHkvmZdeA6rqZ07NA1lH5gqy1awcGVZhptHko-3N1v-c0r5JhyieSqYCX9BlProPzCMwhcgVISPMSbf14_oPO75gQUa4VDQHqO1mpUl6XxQS4YPU_7vnUO7rLEkBZTgkzPpoudApbY4zGSl6BLRJ2VIxJXhXOBk5ltlynVUdDTUVtNidPlvDqNfkez0rao3NLtNm00" alt="" width="563"><figcaption></figcaption></figure>
