@@ -15,7 +15,13 @@ En cas de problème dans la version publié il est possible de **reload** l'asse
 Les assets possèdent des propriétés supplémentaires aux ressources relatives à l’interaction de l'assets avec les élèves et les professeurs.
 
 1. Les assets sont navigables : exemple un cours il est possible d'afficher le cours et les assets qu'il contient.
-2. La navigation dépend de l'utilisateur : admin/prof/prof-non-editeur/élève et la navigation permet de "naviger" sur les assets a) Visibilité: Certaines classe d'utilisateur ne voient pas l'asset (c'est comme il n'extait pas), pour les autres il est visible mais grisé (ou autre indicateur graphique). b) Navigabilité: Un utilisateur vois ces cours. IL peut rentre dans un cours et voire les sections du cours. Puis rentrer dans une section pour voire le contenu (peut être plier et déplier la section). Pour montrer cela les assets sont dans une hiérachie d'objet qui sont visiblable comme une arborescence classique. c) Exécutable: Si l'asset est de type executable (exercice/ activité/ présentation/ etc) en fonction de l'utilisateur il est executable en mode standard (elève) ou en mode préview (autres). d) Parametrable :les propriétés sont manipulables par formulaire.
+2.  La navigation dépend de l'utilisateur : admin/prof/prof-non-editeur/élève et la navigation permet de "naviger" sur les assets:
+
+    A) Visibilité: Certaines classe d'utilisateur ne voient pas l'asset (c'est comme il n'extait pas), pour les autres il est visible mais grisé (ou autre indicateur graphique).&#x20;
+
+    B) Navigabilité: Un utilisateur vois ces cours. IL peut rentre dans un cours et voire les sections du cours. Puis rentrer dans une section pour voire le contenu (peut être plier et déplier la section). Pour montrer cela les assets sont dans une hiérachie d'objet qui sont visiblable comme une arborescence classique.&#x20;
+
+    C) Exécutable: Si l'asset est de type executable (exercice/ activité/ présentation/ etc) en fonction de l'utilisateur il est executable en mode standard (elève) ou en mode préview (autres). d) Parametrable :les propriétés sont manipulables par formulaire.
 3. Les Tableau de bord Les tableau de bord d'asset permettent d'avoir des informations sur le déroulement d'un asset.
 
 ### Les propriétés
