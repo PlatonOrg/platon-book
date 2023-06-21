@@ -48,7 +48,7 @@ les sections sont des activités (on peut boucler sur les sections mais pas trop
 ## Modélisation UML
 
 {% hint style="info" %}
-//www.plantuml.com/plantuml/dpng/NO_12i8m38RlUOhGep3KDzWOx20xJM_Y8NHn56ehJNPnxDqjTeZOIyd_9U5BBKf9vuU7rfC8DYAik41-AsnPb-ABmy0YSKwM5pXhSc72RpBmdHC7omWdYQ5px4SSIGcaTAfJpt2XwNf3fKbWnMstQQpb_BSnQ8eUUoTgaB98s-FoaIXAkwf2SpJ_Ch_qiCyypvMir8KyAN5GWmL0pM7C9xy1
+[https://www.plantuml.com/plantuml/dpng/NO_12i8m38RlUOhGep3KDzWOx20xJM_Y8NHn56ehJNPnxDqjTeZOIyd_9U5BBKf9vuU7rfC8DYAik41-AsnPb-ABmy0YSKwM5pXhSc72RpBmdHC7omWdYQ5px4SSIGcaTAfJpt2XwNf3fKbWnMstQQpb_BSnQ8eUUoTgaB98s-FoaIXAkwf2SpJ_Ch_qiCyypvMir8KyAN5GWmL0pM7C9xy1](lien)
 {% endhint %}
 
 
